@@ -26,6 +26,10 @@ The admin can add events and view student registrations.
 3. Copy project folder to htdocs
 4. Open http://localhost/campus_event
 5. Database name: campus_event (Import SQL file)
-
+## Database Setup
+1. Open phpMyAdmin
+2. Create database named campus_event
+3. Import campus_event.sql file
+4. Run the project in XAMPP server
 ## Author
-Your Name
+PARVATAREDDY SRAVYA
